@@ -15,7 +15,7 @@ int deci(int*);
 
 void main()
 {
-    printf("COA Project:BOOTH's ALGORITHM\nDone By:\n1.NAVIN THOMAS:12CO60\n2.MUKUND Y.R:12CO58\n3.R.M SUMUKHA:12CO67\n4.SURAJ KRISHNAN RAJAN:12CO94\nPress any key to continue.");
+    printf("COA Project:BOOTH's ALGORITHM\nDone By:\n1.R.M SUMUKHA:12CO67\n2.NAVIN THOMAS:12CO60\n3.MUKUND Y.R:12CO58\n4.SURAJ KRISHNAN RAJAN:12CO94\nPress any key to continue.");
     getch();
     int ch;
     do
